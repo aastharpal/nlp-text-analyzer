@@ -52,28 +52,6 @@ database/ → MongoDB connection
 
 ---
 
-## How to Run Locally
-
-Clone the repository
-
-git clone https://github.com/aastharpal/nlp-text-analyzer.git
-
-Install backend dependencies
-
-npm install
-
-Run backend
-
-npm start
-
-Run frontend
-
-cd client
-npm install
-npm start
-
----
-
 ## Purpose of Project
 
 This project was created as a practice full-stack MERN application to understand
